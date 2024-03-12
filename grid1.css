@@ -1,0 +1,133 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.container{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto auto;
+    height: 100vh;
+    width: 100%;
+    gap: 8px;
+    background-color: black;
+}
+.one{
+    border: solid 2px black;
+}
+.a{
+    grid-column: span 4;
+   background: url(https://images.unsplash.com/photo-1501785888041-af3ef285b470?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D) center center; 
+   background-size: cover; 
+    
+    
+}
+.b{
+    grid-column: span 2;
+    background: url(https://img.freepik.com/free-photo/beautiful-view-greenery-bridge-forest-perfect-background_181624-17827.jpg);
+    background-size: cover;
+}
+.c{
+    grid-row: span 4;
+
+}
+
+.e{
+   grid-column: span 4;
+   background: url(https://images.unsplash.com/photo-1485470733090-0aae1788d5af?q=80&w=1517&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D) center center;
+   background-size: cover;
+   
+}
+.f{
+    background: url(https://cdn.wallpapersafari.com/94/53/bvB2H9.jpg) center center;
+    background-size: cover;
+
+}
+.d{
+    background: url(https://img.freepik.com/free-photo/white-background-with-pretty-flowers-pink-petals_23-2147601186.jpg?w=2000);
+    background-size: cover;
+
+}
+.h{
+    grid-column: span 3;
+    background: url(https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_960_720.jpg) center center;
+    background-size: cover;
+}
+.i{
+    grid-column: span 3;
+    background: url(https://images.wallpaperscraft.com/image/single/lake_forest_snow_130421_300x168.jpg) center center;
+}
+.k{
+    grid-column: span 2;
+    background: url(https://media.istockphoto.com/id/1301592032/photo/spring-beautiful-background-with-green-juicy-young-foliage-and-empty-wooden-table-in-nature.jpg?b=1&s=612x612&w=0&k=20&c=4vS9_kpzzaJQeUTT4Cd0hwgD5G47Sj6Uk4XQqnT1Wjw=) center center;
+    background-size: cover;
+}
+.l{
+    grid-column: span 2;
+    background: url(https://images.wallpaperscraft.com/image/single/waterfall_cliff_stone_141850_300x168.jpg) center center;
+    background-size: cover;
+}
+.m{
+    grid-column: span 2;
+    background: url(https://wallpapercave.com/wp/wp2552009.jpg) center center;
+    background-size: cover;
+}
+.P1{
+    color: white;
+    text-align: right;
+    margin-right: 50px;
+    font-size: 20px;
+}
+.P2{
+    color: red;
+    text-align: right;
+    margin-right: 50px;
+    padding-top: 40px;
+}
+.P3{
+    color:white;
+    text-align: right;
+    margin-right: 50px;
+    padding-top: 20px;
+}
+.P4{
+    color:white;
+    text-align: right;
+    margin-right: 50px;
+    padding-top: 20px;
+}
+.P5{
+    color:white;
+    text-align: right;
+    margin-right: 50px;
+    padding-top: 20px;
+}
+.P6{
+    color:white;
+    text-align: right;
+    margin-right: 50px;
+    padding-top: 20px;
+}
+.fb{
+    background-color:black;
+    color: white;
+    margin-right: 20px;
+    
+}
+.t1{
+    background-color:black;
+    color: white;
+    margin-right: 20px;
+}
+.insta{
+    background-color:black;
+    color: white;
+    margin-right: 50px;
+}
+.div-1{
+    margin-top: 30px;
+    text-align: right;
+}
+
+
+
+
+

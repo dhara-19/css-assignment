@@ -1,0 +1,93 @@
+@media screen and (max-width:767px){
+    .container{
+        display: grid;
+        grid-template-columns: auto;
+        height: 500vh;
+        width: 100%;
+        gap: 8px;
+        background-color: black;
+    }
+    .one{
+        border: solid 2px black;
+    }
+    .a{
+        grid-column: span 1;
+        grid-row: span 1;
+       background: url(https://images.unsplash.com/photo-1501785888041-af3ef285b470?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D) center center; 
+       background-size: cover;
+       height: 350px; 
+        
+        
+    }
+    .b{
+        grid-column: span 1;
+        grid-row: span 1;
+        background: url(https://img.freepik.com/free-photo/beautiful-view-greenery-bridge-forest-perfect-background_181624-17827.jpg);
+        background-size: cover;
+        height: 350px; 
+    }
+    .c{
+        display: none;
+    
+    }
+    
+    .e{
+        grid-column: span 1;
+        grid-row: span 1;
+       background: url(https://images.unsplash.com/photo-1485470733090-0aae1788d5af?q=80&w=1517&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D) center center;
+       background-size: cover;
+       height: 350px; 
+       
+    }
+    .f{
+        grid-column: span 1;
+        grid-row: span 1;
+        background: url(https://cdn.wallpapersafari.com/94/53/bvB2H9.jpg) center center;
+        background-size: cover;
+        height: 350px; 
+    
+    }
+    .d{
+        grid-column: span 1;
+        grid-row: span 1;
+        background: url(https://img.freepik.com/free-photo/white-background-with-pretty-flowers-pink-petals_23-2147601186.jpg?w=2000);
+        background-size: cover;
+        height: 350px; 
+    
+    }
+    .h{
+        grid-column: span 1;
+        grid-row: span 1;
+        background: url(https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_960_720.jpg) center center;
+        background-size: cover;
+        height: 350px; 
+    }
+    .i{
+        grid-column: span 1;
+        grid-row: span 1;
+        background: url(https://images.wallpaperscraft.com/image/single/lake_forest_snow_130421_300x168.jpg) center center;
+        height: 350px; 
+    }
+    .k{
+        grid-column: span 1;
+        grid-row: span 1;
+        background: url(https://media.istockphoto.com/id/1301592032/photo/spring-beautiful-background-with-green-juicy-young-foliage-and-empty-wooden-table-in-nature.jpg?b=1&s=612x612&w=0&k=20&c=4vS9_kpzzaJQeUTT4Cd0hwgD5G47Sj6Uk4XQqnT1Wjw=) center center;
+        background-size: cover;
+        height: 350px; 
+    }
+    .l{
+        grid-column: span 1;
+        grid-row: span 1;
+        background: url(https://images.wallpaperscraft.com/image/single/waterfall_cliff_stone_141850_300x168.jpg) center center;
+        background-size: cover;
+        height: 350px; 
+        background-repeat: no-repeat;
+    }
+    .m{
+        grid-column: span 1;
+        grid-row: span 1;
+        background: url(https://wallpapercave.com/wp/wp2552009.jpg) center center;
+        background-size: cover;
+        height: 450px;
+    }
+}

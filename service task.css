@@ -1,0 +1,145 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.div-1{
+     height: 635px;
+     width: 750px;
+     background-color: black;
+     position: relative;
+}
+.tex-1{
+    color: white;
+    padding-top: 100px;
+    margin-left: 430px;
+}
+.p-1{
+    color: red;
+    font-size: 15px;
+    margin-left: 540px;
+    margin-top: 50px;
+}
+.p-2{
+    color: rgba(255, 255, 255, 0.507);
+    text-align: right;
+    margin-right: 90px;
+    font-size: 13px;
+    
+    
+}
+.p-3{
+   color: red;
+    font-size: 15px;
+    margin-left:530px ;
+    margin-top: 50px;
+}
+.p-4{
+    color: rgba(255, 255, 255, 0.507);
+    text-align: right;
+    margin-right:85px ;
+    font-size: 13px;
+}
+.p-5{
+    color: red;
+    font-size: 15px;
+    margin-top: 50px;
+    margin-left: 520px;
+}
+.p-6{
+    color: rgba(255, 255, 255, 0.507);
+    text-align: right;
+    margin-right: 85px;
+    font-size: 13px;
+}
+.div1-1{
+    height: 20px;
+    width: 0px;
+    border: solid 2px red;
+    position: absolute;
+    right: 90px;
+    top: 100px;
+    
+}
+.div1-2{
+    height: 20px;
+    width: 0px;
+    border:  solid 1px red;
+    position: absolute;
+    top: 300px;
+    left: 30px;
+}
+.div1-3{
+    height: 20px;
+    width: 0px;
+    border: solid 1px #202020;
+    position: absolute;
+    left: 30px;
+    top: 270px;
+    
+}
+.div1-4{
+    height: 20px;
+    width: 0px;
+    border: solid 1px #202020;
+    position: absolute;
+    left: 30px;
+    top: 330px;
+    
+}
+.main{
+    display: flex;
+}
+.img{
+    height: 635px;
+    width: 630px;
+}
+.logo-1{
+    height: 50px;
+    width: 50px;
+    border: soli 2px grey;
+    background-color: white;
+    border-radius: 50%;
+    position: absolute;
+    top: 200px;
+    right: -25px;
+}
+.img-1{
+    height: 20px;
+    width: 20px;
+    margin-left: 15px;
+    margin-top: 15px;
+    
+}
+.logo-2{
+    height: 50px;
+    width: 50px;
+    border: soli 2px grey;
+    background-color: white;
+    border-radius: 50%;
+    position: absolute;
+    top: 470px;
+    right: -25px;
+
+}
+.img-2{
+    height: 20px;
+    width: 20px;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+.logo-3{
+    height: 50px;
+    width: 50px;
+    border: soli 2px grey;
+    background-color: white;
+    border-radius: 50%;
+    position: absolute;
+    top: 335px;
+    right: -25px;
+}
+.img-3{
+    height: 20px;
+    width: 20px;
+    margin-left: 15px;
+    margin-top: 15px;
+}

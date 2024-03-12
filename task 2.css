@@ -1,0 +1,281 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.abc{
+    height: 100vh;
+    
+    background: linear-gradient(to right , rgba(0, 0, 0, 0.603) , rgba(0, 0, 0, 0.603)) ,url(Put\ Your\ Image.png);
+    background-size: cover;
+    clip-path: polygon(0 0, 100% 0%, 100% 83%, 50% 100%, 0 84%);
+    position: relative;
+
+
+}
+.button{
+    display: flex;
+    justify-content: start;
+    border: solid 2px white;
+    margin-top: 30px;
+}
+.button1{
+    height: 30px;
+    width: 30px;
+    font-size: large;
+    background-color: white;
+    border: none;
+    color: black;
+    
+}
+.button2{
+    height: 30px;
+    width: 50px;
+    border: none;
+    color: white;
+    font-size: large;
+    background-color: transparent;
+    
+}
+.abc1{
+    display: flex;
+    justify-content: space-evenly;
+    
+    
+    
+    
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+.abc2{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 30px;
+    margin-top: 30px;
+}
+.p1{
+    display: flex;
+    justify-content: center;
+    color: white;
+    margin-top: 120px;
+}
+.h12{
+    display: flex;
+    justify-content: center;
+    color: white;
+    margin-top: 20px;
+    font-size: 60px;
+}
+.div1{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 20px;
+}
+.hr1{
+    height: 0px;
+    width: 110px;
+}
+.circle{
+    height: 9px;
+    width: 9px;
+    border-radius: 50%;
+    background-color: red;
+    margin-top: -3px;
+
+}
+.hr2{
+    height: 0px;
+    width: 110px;
+}
+.p2{
+    text-align: center;
+    color: white;
+    margin-top: 25px;
+    
+}
+.b5{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding-top: 20px;
+}
+.b3{
+    height: 40px;
+    width: 150px;
+    font-size: x-small;
+    border: solid 2px red;
+    background-color: red;
+    color: white;
+}
+.b4{
+    height: 40px;
+    width: 150px;
+    font-size: x-small;
+    border: solid 2px white;
+    background-color:transparent;
+    color: white;
+}
+.abc3{
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid 2px grey;
+    margin-left: 650px;
+    margin-top: -20px;
+    position: absolute;
+}
+.img1{
+    height: 20px;
+    width: 20px;
+}
+.abc4{
+    height: 200px;
+    width: 200px;
+    border: solid 2px grey;
+    
+}
+.img2{
+    height: 50px;
+    width: 50px;
+    margin-left: 70px;
+    
+}
+.P3{
+    color: red;
+    font-size: x-small;
+    margin-left: 60px;
+    margin-top: 10px;
+}
+.hr3{
+    width: 30px;
+    color: grey;
+   margin-top: 10px;
+   margin-left: 80px;
+    
+}
+.p4{
+    color: grey;
+    text-align: center;
+    margin-top: 10px;
+}
+.abc5{
+    height: 200px;
+    width: 200px;
+    border: solid 2px grey;
+}
+.abc6{
+    height: 40px;
+    width: 40px;
+    border: solid 2px grey;
+    margin-left: 70px;
+    margin-top: 10px;
+}
+.P5{
+    color: grey;
+    margin-left: 60px;
+    margin-top: 10px;
+    font-size: x-small;
+}
+.hr4{
+    color: grey;
+    width: 30px;
+    margin-top: 10px;
+    margin-left: 80px;
+}
+.p6{
+    color: grey;
+    text-align: center;
+    margin-top: 10px;
+}
+.abc7{
+    height: 200px;
+    width: 200px;
+    border: solid 2px grey;
+}
+.abc8{
+    height: 40px;
+    width: 40px;
+    border: solid 2px grey;
+    margin-left: 70px;
+    margin-top: 10px;
+}
+.p7{
+    color: grey;
+    margin-top: 10px;
+    margin-left: 50px;
+    font-size: x-small;
+    
+}
+.hr5{
+    color: grey;
+    width: 30px;
+    margin-left: 80px;
+    margin-top: 10px;
+}
+.p8{
+    color: grey;
+    margin-top: 10px;
+    text-align: center;
+}
+.abc9{
+    height: 200px;
+    width: 200px;
+    border: solid 2px grey;
+}
+.abc10{
+    height: 40px;
+    width: 40px;
+    border: solid 2px grey;
+    margin-left: 70px;
+    margin-top: 10px;
+}
+.P9{
+    color: grey;
+    margin-top: 10px;
+    margin-left: 60px;
+    font-size: x-small;
+
+}
+.hr6{
+    color: grey;
+    width: 30px;
+    margin-left: 80px;
+    margin-top: 10px;
+}
+.p10{
+    color:grey;
+    margin-top: 10px;
+    text-align: center;
+}
+.abc11{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    gap: 30px;
+}
+
+.b10{
+    height: 20px;
+    width: 20px;
+    position: absolute;
+    top: 280px;
+    left: 30px;
+    
+    
+}
+.b11{
+    height: 20px;
+    width: 20px;
+    background-color: red;
+    color: white;
+    border: solid 2px red;
+    position: absolute;
+    top: 280px;
+    right: 30px;
+}
